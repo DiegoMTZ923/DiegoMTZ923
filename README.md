@@ -59,4 +59,3 @@ Contribuciones para añadir nuevas funcionalidades, mejoras o correcciones son s
 
 **Licencia:**
 Este proyecto está licenciado bajo la MIT License, permitiendo su uso para desarrollar aplicaciones similares que apoyen bancos de alimentos y organizaciones benéficas.
-
