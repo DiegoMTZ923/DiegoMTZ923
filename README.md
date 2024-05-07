@@ -19,7 +19,6 @@ Soy un apasionado desarrollador enfocado en el **Frontend**. Me encanta crear in
 - Contribuir a proyectos open source que benefician a comunidades de desarrolladores.
 
 ### 📫 Cómo Contactarme:
-- Envíame un email a [miemail@example.com](mailto:miemail@example.com)
 - Sígueme en [LinkedIn](https://linkedin.com/in/tu-linkedin)
 
 ### 🌟 Un Hecho Divertido:
