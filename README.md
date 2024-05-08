@@ -59,3 +59,25 @@ Contribuciones para añadir nuevas funcionalidades, mejoras o correcciones son s
 
 **Licencia:**
 Este proyecto está licenciado bajo la MIT License, permitiendo su uso para desarrollar aplicaciones similares que apoyen bancos de alimentos y organizaciones benéficas.
+
+##  🌟🌐 Proyecto Destacado: Plataforma de Empleo IJALTI 📲🎉
+Descripción: La aplicación web IJALTI es una solución tecnológica diseñada para conectar a profesionales de la ciencia y la tecnología con oportunidades laborales relevantes. Utiliza autenticación segura y una base de datos robusta para gestionar las cuentas de usuarios y las ofertas de empleo en tiempo real.
+
+Características Principales:
+
+Autenticación Segura: Acceso al sistema mediante Firebase Authentication para una entrada segura usando correos electrónicos o cuentas de redes sociales.
+Gestión de Perfiles de Usuario: Los usuarios pueden crear y modificar sus perfiles, que incluyen experiencia laboral, estudios y CVs, con actualizaciones reflejadas en tiempo real.
+Interfaz Administrativa: Administradores de IJALTI pueden gestionar ofertas de empleo, visualizar estadísticas de la plataforma y realizar tareas de mantenimiento de cuentas.
+Búsqueda Avanzada de Empleo: Filtrado y búsqueda avanzada de ofertas para adaptarse a las necesidades específicas de los candidatos.
+Comunicación Directa: Mensajería integrada para facilitar la comunicación directa entre empresas y candidatos.
+Impacto: Este proyecto no solo optimiza la conexión entre talento y oportunidades laborales sino que también promueve el desarrollo profesional continuo en el sector de tecnología, aumentando la visibilidad de las ofertas y la eficiencia del proceso de contratación.
+
+Tecnologías Usadas:
+
+Firebase Authentication
+Firebase Realtime Database
+ASP.NET Core MVC
+Microsoft SQL Server
+Bootstrap y Chart.js para frontend
+
+Licencia: Este proyecto está licenciado bajo la MIT License, facilitando el uso y la modificación del software para adaptarlo a otras plataformas de empleo o necesidades específicas de organizaciones sin fines de lucro.
