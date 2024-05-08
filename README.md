@@ -122,6 +122,6 @@ Simulación de Agentes Múltiples
 Modelado y Animación 3D
 Sistemas de Gestión de Bases de Datos para control de tráfico y estacionamientos
 Algoritmos de optimización para la selección de rutas
-Colabora: Invitamos a desarrolladores, urbanistas y entusiastas de la tecnología a contribuir en el desarrollo y mejora de Traffic Jam. Explora, contribuye o sugiere nuevas funcionalidades a través de nuestro repositorio en GitHub:[Contribuir al proyecto](https://github.com/JavierP08/MyProject).
+Colabora: Invitamos a desarrolladores, urbanistas y entusiastas de la tecnología a contribuir en el desarrollo y mejora de Traffic Jam. Explora, contribuye o sugiere nuevas funcionalidades a través de nuestro repositorio en GitHub: [Contribuir al proyecto](https://github.com/JavierP08/MyProject).
 
 Licencia: Este proyecto está desarrollado bajo una licencia abierta, permitiendo su uso y adaptación para proyectos similares que busquen mejorar la movilidad urbana en otras regiones.
