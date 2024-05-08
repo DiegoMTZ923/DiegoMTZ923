@@ -81,3 +81,23 @@ Microsoft SQL Server
 Bootstrap y Chart.js para frontend
 
 Licencia: Este proyecto está licenciado bajo la MIT License, facilitando el uso y la modificación del software para adaptarlo a otras plataformas de empleo o necesidades específicas de organizaciones sin fines de lucro.
+
+## 🌟🖥️ Proyecto Destacado: Oracle DevMate Bot 🤖💼
+Descripción: Oracle DevMate Bot es un asistente inteligente diseñado para mejorar la productividad y eficiencia operativa dentro del ecosistema de Oracle. Este chatbot facilita la gestión de tareas y la colaboración en equipo mediante una interfaz interactiva y automatizada que se integra perfectamente con la infraestructura existente de Oracle.
+
+Características Principales:
+
+Autenticación Segura: Autenticación robusta de desarrolladores y gerentes para acceder a las funcionalidades del chatbot.
+Gestión de Tareas Mejorada: Los desarrolladores pueden crear, modificar y priorizar tareas, mientras que los gerentes reciben resúmenes automáticos de las tareas asignadas a sus equipos.
+Comunicación Eficiente: El bot permite la solicitud de acceso a recursos y proporciona notificaciones en tiempo real sobre actualizaciones de tareas.
+Integración Profunda: Diseñado para integrarse con la base de datos y los servicios de Oracle, permitiendo una gestión de tareas fluida y segura.
+Impacto: Oracle DevMate Bot ha demostrado aumentar la productividad en un 20%, reducir costos y mejorar la calidad de la gestión de proyectos. Su implementación resulta en una mayor rentabilidad y satisfacción de los empleados, optimizando el flujo de trabajo y haciendo que la colaboración sea más eficiente.
+
+Tecnologías Usadas:
+
+Oracle Cloud Infrastructure
+Bases de datos Oracle
+Lenguajes de programación para integración de APIs
+Sistemas de autenticación y seguridad avanzada
+
+Licencia: Este proyecto está licenciado bajo la Apache 2.0 License, permitiendo su modificación y uso en diversos entornos mientras se mantienen altos estándares de seguridad y compatibilidad.
